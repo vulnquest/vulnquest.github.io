@@ -1,0 +1,9 @@
+# robots.txt for VulnQuest
+# Last updated: 22-06-2025
+
+# Allow all bots to crawl the website
+User-agent: *
+Disallow:
+
+# Sitemap location
+Sitemap: https://vulnquest.fr/sitemap.xml
