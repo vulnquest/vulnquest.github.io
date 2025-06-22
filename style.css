@@ -1001,7 +1001,7 @@ footer {
     border-radius: 8px;
     padding: 40px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
-    margin: 40px 0;
+    margin: 40px auto;
 }
 
 .legal-container h1 {
