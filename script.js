@@ -18,6 +18,10 @@ const translations = {
         'fr': 'Page non trouvée (404) | VulnQuest - Tests d\'intrusion & Audits de sécurité informatique',
         'en': 'Page not found (404) | VulnQuest - Penetration Testing & IT Security Audits'
     },
+    'title-tagline-mentions': {
+        'fr': 'Mentions Légales - Conditions d\'Utilisation',
+        'en': 'Legal Notice - Terms of Use'
+    },
     'nav-home': {
         'fr': 'Accueil',
         'en': 'Home'
@@ -511,6 +515,43 @@ const translations = {
         'en': 'Contact us'
     },
 
+    // Legal Section
+    'legal-container-title': {
+        'fr': 'Mentions Légales et Conditions d\'Utilisation',
+        'en': 'Terms of Use'
+    },
+    'legal-1-title': {
+        'fr': '1. Informations sur le propriétaire',
+        'en': '1. Information about the owner'
+    },
+    'legal-1-desc': {
+        'fr': 'VulnQuest est une marque déposée et utilisée par la micro-entreprise possédant le numéro de SIRET 881 577 738 00027. Cette dernière est référencée sur l\'annuaire des entreprises.',
+        'en': 'VulnQuest is a registered trademark used by the micro-enterprise with the SIRET number 881 577 738 00027. This entity is listed in the French business directory.'
+    },
+    'legal-2-title': {
+        'fr': '2. Informations sur l\'hébergement',
+        'en': '2. Information about hosting'
+    },
+    'legal-2-desc': {
+        'fr': 'Ce site web est hébergé par GitHub Pages, un service fourni par GitHub, Inc.',
+        'en': 'This website is hosted by GitHub Pages, a service provided by GitHub, Inc.'
+    },
+    'legal-3-title': {
+        'fr': '3. Droit Applicable et Juridiction Compétente',
+        'en': '3. Applicable Law and Competent Jurisdiction'
+    },
+    'legal-3-desc': {
+        'fr': 'Les présentes mentions légales et conditions d\'utilisation sont régies par le droit français. En cas de litige, les tribunaux français seront seuls compétents.',
+        'en': 'The present legal notices and terms of use are governed by French law. In the event of a dispute, French courts shall have exclusive jurisdiction.'
+    },
+    'legal-4-title': {
+        'fr': '4. Contact',
+        'en': '4. Contact'
+    },
+    'legal-4-desc': {
+        'fr': 'Pour toute question concernant ces mentions légales ou ce site web, veuillez contacter le propriétaire du site à l\'adresse suivante :',
+        'en': 'For any questions regarding these legal notices or this website, please contact the site owner at the following address :'
+    },
 };
 
 document.addEventListener('DOMContentLoaded', function() {
